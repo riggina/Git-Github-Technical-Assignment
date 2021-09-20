@@ -1,41 +1,41 @@
-# Create a folder called git-basic
-> mkdir git-basic
+**1. Create a folder called git-basic**
+- mkdir git-basic
 
-# cd into the git-basic folder
-> cd git-basic
+**2. cd into the git-basic folder**
+- cd git-basic
 
-# Create a file called first.txt
-> touch first.txt
+**3. Create a file called first.txt**
+- touch first.txt
 
-# Initialize an empty git repository
-> git init first.txt
+**4. Initialize an empty git repository**
+- git init first.txt
 
-# Add first.txt to the staging area
-> git add first.txt
+**5. Add first.txt to the staging area**
+- git add first.txt
 
-# Commit the message "adding first.txt"
-> git commit -m "adding first.txt"
+**6. Commit the message "adding first.txt"**
+- git commit -m "adding first.txt"
 
-# Check out your commit with git log
-> git log
+**7. Check out your commit with git log**
+- git log
 
-# Create another file called second.txt
-> touch second.txt
+**8. Create another file called second.txt**
+- touch second.txt
 
-# Add second.txt to the staging area
-> git add second.txt
+**9. Add second.txt to the staging area**
+- git add second.txt
 
-# Commit with the message "adding second.txt"
-> git commit -m "adding second.txt"
+**10. Commit with the message "adding second.txt"**
+- git commit -m "adding second.txt"
 
-# Remove the first.txt file
-> rm -r first.txt
+**11. Remove the first.txt file**
+- rm -r first.txt
 
-# Add this change to the staging area
-> git add .
+**12. Add this change to the staging area**
+- git add .
 
-# Commit with the message "removing first.txt"
-> git commit -m "removing first.txt"
+**13. Commit with the message "removing first.txt"**
+- git commit -m "removing first.txt"
 
-# Check out your commits using git log
-> git log
+**14. Check out your commits using git log**
+- git log
