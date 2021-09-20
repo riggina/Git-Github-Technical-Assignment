@@ -60,3 +60,7 @@ Ini adalah update pertama pada branch master"
 _Karena saya menggunakan github cli maka saya menggunakan gh repo create_
 > gh repo create
 > git push -u origin master
+
+
+**Berikut Link Repository yang telah available di Github saya**
+https://github.com/riggina/rigginaocean.git
