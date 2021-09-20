@@ -1,25 +1,25 @@
 **1. Membuat sebuah folder kosong dengan namamu sendiri**
-> mkdir rigginaocean
+1 mkdir rigginaocean
 
 **2. Membuat sebuah file dengan nama README.md, isi file tersebut dengan kalimat
 "Halo perkenalkan aku halaman utama"**
-> touch README.md
-> nano README.md
-> "Halo perkenalkan aku halaman utama"
+1 touch README.md
+2 nano README.md
+3 "Halo perkenalkan aku halaman utama"
 
 **3. Insialisasi folder tersebut dengan Git, kemudian dokumentasikan menggunakan commit dengan pesan
 "Inisialisasi Git Repository"**
-> git init
-> git add .
-> git commit -m "Inisialisasi Git Repository"
+1 git init
+2 git add .
+3 git commit -m "Inisialisasi Git Repository"
 
 **4. Buat branch baru dengan nama cv, hal ini berguna agar histori kita tidak tercampur**
-> git branch cv
+1 git branch cv
 
 **5. Pindah branch kedalam cv, kemudian buat file dengan nama cv.txt dan isi file tersebut dengan kalimat:
 "Ini adalah file CV"**
-> git checkout cv
-> touch cv.txt
+- git checkout cv
+- touch cv.txt
 > nano cv.txt
 > "Ini adalah file CV"
 
